@@ -159,7 +159,7 @@ p {
 }
 .copyright {
   color: white;
-  font-size: 1rem;
+  font-size: 75%;
   padding: 20px 0;
 }
 .closing-line {
@@ -170,6 +170,7 @@ a {
   margin: 0 15px;
   text-decoration: none;
   color: green;
+  font-size: 100%;
 }
 a:hover {
   color: white;
